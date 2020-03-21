@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy Dec 2019 - Mar 2020
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
