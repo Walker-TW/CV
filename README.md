@@ -1,6 +1,6 @@
 ## Tom Walker
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A well travelled job seeker changing careers from teaching and bartending to something a little more interactive. Excited to begin his journey into finding out how this here internet works.
 
 ## Skills
 
