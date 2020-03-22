@@ -44,3 +44,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Hobbies
 
+- Fitness - I have been lifting weights for 10 years
+- Travel - I have visted over 30 nations
+- Modding Hardware - I have created a mini arcade console using a Rasberry Pi 3
