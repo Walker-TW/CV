@@ -1,5 +1,23 @@
 ## Tom Walker
 
+[![Ruby commits][rubyCommits]](https://sourcerer.io/walker-tw)
+[![JavaScript commits][jsCommits]](https://sourcerer.io/walker-tw)
+[![HTML commits][htmlCommits]](https://sourcerer.io/walker-tw)
+[![CSS commits][cssCommits]](https://sourcerer.io/walker-tw)
+
+[rubyCommits]: https://img.shields.io/badge/Ruby-357%20commits-orange.svg
+[jsCommits]: https://img.shields.io/badge/JavaScript-307%20commits-orange.svg
+[htmlCommits]: https://img.shields.io/badge/HTML-228%20commits-orange.svg
+[cssCommits]: https://img.shields.io/badge/CSS-270%20commits-orange.svg
+
+<div align= "center" >
+
+[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
+
+</div>
+
+---
+
 A well travelled job seeker changing careers from teaching and bartending to something a little more interactive. Excited to begin his journey into finding out how this here internet works.
 
 ## Skills
