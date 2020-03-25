@@ -7,10 +7,10 @@
 [![HTML commits][htmlCommits]](https://sourcerer.io/walker-tw)
 [![CSS commits][cssCommits]](https://sourcerer.io/walker-tw)
 
-[rubyCommits]: https://img.shields.io/badge/Ruby-188%20commits-blue.svg
-[jsCommits]: https://img.shields.io/badge/JavaScript-113%20commits-blue.svg
-[htmlCommits]: https://img.shields.io/badge/HTML-92%20commits-blue.svg
+[rubyCommits]: https://img.shields.io/badge/Ruby-188%20commits-red.svg
+[jsCommits]: https://img.shields.io/badge/JavaScript-113%20commits-yellow.svg
 [cssCommits]: https://img.shields.io/badge/CSS-127%20commits-blue.svg
+[htmlCommits]: https://img.shields.io/badge/HTML-92%20commits-orange.svg
 
 [*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
 
@@ -19,6 +19,8 @@
 ---
 
 A well travelled job seeker changing careers from teaching and bartending to something a little more interactive. Excited to begin his journey into finding out how this here internet works.
+
+## Projects
 
 |__Links__|__Description__|__Tech Used__|
 |:-:|:-:|:-:|
