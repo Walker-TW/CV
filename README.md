@@ -21,7 +21,15 @@
 
 ---
 
-A well travelled job seeker changing careers from teaching and bartending to something a little more interactive. Excited to begin his journey into finding out how this here internet works.
+As a recent graduate of Makers Academy I now know three things, first a software developers learning journey is never over. Second communication is key to creating good scalable software and finally I will forever be answering phone calls from my mother about if the computer wants to steal her information....
+
+I have always liked building things, breaking them and then solving how I broke them. While my past employment (Bartending and Teaching) allowed me to solve problems and build things (ie. cocktails) I never really got to build things that are longer lasting or deeply complex.
+So while working my previous jobs I began learning to program on my own using online resources (CS50, "Learn Python the Hard Way") and then started Makers Academy in December 2019.
+
+There is a lot to love about development but I have learnt that the ease of creation, scalability of projects and continuous personal skill development are my favourite parts of the process.
+
+Armed with my bootcamp knowledge alongside my Philosophy & History degree I am now looking for a full-stack junior developer role. Ready willing and excited to find out how this here internet works.
+
 
 ## Projects
 
