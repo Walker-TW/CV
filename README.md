@@ -1,5 +1,4 @@
 <div align= "center" >
-
 <h1>Tom Walker</h1>
 
 [![Ruby commits][rubyCommits]](https://sourcerer.io/walker-tw)
