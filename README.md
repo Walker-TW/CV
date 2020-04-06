@@ -26,8 +26,13 @@ As a recent graduate of Makers Academy I now know three things, first a software
 I have always liked building things, breaking them and then solving how I broke them. While my past employment (Bartending and Teaching) allowed me to solve problems and build things (ie. cocktails) I never really got to build things that are longer lasting or deeply complex.
 So while working my previous jobs I began learning to program on my own using online resources (CS50, "Learn Python the Hard Way") and then started Makers Academy in December 2019.
 
-There is a lot to love about development but I have learnt that the ease of creation, scalability of projects and continuous personal skill development are my favourite parts of the process. With this in mind and armed with my bootcamp knowledge alongside my Philosophy & History degree I am now looking for a full-stack junior developer role. Ready willing and excited to find out how this here internet works.
+There is a lot to love about development but I have learnt that the ease of creation, adaptability of projects and continuous personal skill development are my favourite parts of the process. With this in mind and armed with my bootcamp knowledge alongside my Philosophy & History degree I am now looking for a full-stack junior developer role. Ready willing and excited to find out how this here internet works.
 
+Current Projects In Production
+
+- Personal Website
+- Algorythm Visualiser
+- Discord Bot
 
 ## Projects
 
@@ -44,7 +49,36 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 
 #### Research/Learning
 
+- Teacher
+- Drinks? (new drinks)
+- Being Competitive
+- Fast Learning
+- Build a bed back of car
+
 #### Communication
+
+- ESL teacher
+- Small teams at bartending
+- KOREA
+
+#### Self-Driven
+
+- Start and follow through own projects
+- Learnt coding on my own while working full time job
+- Korean knocking on doors?
+- Dual degree time managment
+
+#### Leadership
+
+- Working at bars
+- Standups in final project 
+- Teaching
+
+#### Adaptability XXX
+
+- Different enviroments
+- MANY different jobs 
+- KOREA
 
 #### Languages
 
@@ -67,6 +101,8 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 
 - History & Philosophy
 - 2:1
+- Fencing Teacher 
+- Russian Award 
 
 
 ## Experience
@@ -77,11 +113,11 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 **Cairns College of English** (April 2016 - Dec 2016)   
 *English Teacher*  
 
-**Cairns College of English** (Jan 2014 - Mar 2015)   
+**Ebo Young Talking Club Gyeongju SK** (Jan 2014 - Mar 2015)   
 *English Teacher*  
 
 ## Interests
 
 - Fitness - I have been lifting weights for the last 10 years and hope one day to get "in shape".
 - Travel - I have visted over 30 nations.
-- Modding Hardware - I have created a mini arcade console using a Rasberry Pi 3.
+- Modding Hardware - I have created a mini arcade console using a Rasberry Pi 3B.
