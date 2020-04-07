@@ -70,12 +70,6 @@ My first line of code was written in Python on a Thursday and by that Monday I h
 
 Additionally, I have a continous track record of completing self made goals. The most demonstratable of these is my love of travel whihc often sees me setting a place to live or visit and then overcoming finical, personal and bureaucratic obsticals to achieve this. From dealing with month long visa processes to working two jobs to pay for dream travel to building a bed in the back of my car and driving Australia's interior. I use this self drive not only to pursue my personal but my work objectives as well.
 
-- Start and follow through own projects
-- Learnt coding on my own while working full time job
-- Korean knocking on doors?
-- Dual degree time managment
-- Build a bed back of car
-
 #### Leadership
 
 - Working at bars
