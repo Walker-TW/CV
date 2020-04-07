@@ -72,9 +72,10 @@ Additionally, I have a continuous track record of completing self made goals. Th
 
 #### Leadership
 
-- Makers (Retros, stand-ups, point man, meetings)
-- Working at bars (supervisor promotion, menu creation)
-- Teaching (give speeches)
+At Makers we used an AGILE work process, using XP values, Trello and Github to improved our workflow. Within this I regularly lead stand-ups and retros in our small teams. As well as creating and running a retro for my entire cohort based around our [acebook projects](https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos). I also lead the presentations of the demonstration day for my cohort and was chosen as the first speaker for my knowledge of our final projects. 
+
+All of this was built upon my pre-gained leadership skills teaching and working as a bar supervisor around the world. In my hospitality career I was promoted to a supervisory position, in charge of staff scheduling, menu creation and social media influence. While as a teacher I was the leader for regularly scheduled tours of the Great Barrier Reef for Japanese high school students. All of this background means that not only do I know how to lead but also that a strong leader is only as good as the team around them.
+
 
 #### Languages
 
