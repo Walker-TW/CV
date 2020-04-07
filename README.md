@@ -47,7 +47,7 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 
 ## Skills
 
-#### Research/Learning
+### Research/Learning
 
 As a History & Philosophy graduate I had a heavy research based course-load, focused on not just when things happened but the driving ideals behind them. The dual nature of my course required extensive knowledge of multiple fields which could then be combined into a new idea.
 
@@ -56,7 +56,7 @@ These skills include teaching myself Python before joining Makers Academy a high
 
 As a native English speaker teaching adults ESL I had to learn the ins and outs of different esoteric grammar points to a standard that I could then teach them in an interesting and easily digestible way. This shows that I can take complex concepts and illustrate them to professionals outside the area of expertise.
 
-#### Communication
+### Communication
 
 Makers curriculum is pair based programming. Therefore, I am well versed in working in small teams with people of varying outlooks and technical knowledge to create software. This experience solidified my knowledge that communication is key in the all aspects of tech.
 
@@ -64,20 +64,20 @@ I also had the unique experience of living and working in a small town (Gyeongju
 
 Overall my experience teaching and in hospitality has made me a strong communicator and much more sensitive to how important it is in all aspects of work. 
 
-#### Self-Driven
+### Self-Driven
 
 My first line of code was written in Python on a Thursday and by that Monday I had over 2000 lines of code in my starting directory (none of it was that great). Yet I was hooked, and after contacting various people in the industry the best way to break in, I chose Makers Academy because it is a self lead curriculum. There I ran retro's for my entire cohort, planned group Meet-ups and based on my own interest in Spotify data sketched out [my final project](https://github.com/Walker-TW/Front-End-Vishual), set group goals and drove my team to project completion.
 
 Additionally, I have a continuous track record of completing self made goals. The most demonstrable of these is my love of travel which often sees me setting a place to live or visit and then overcoming finical, personal and bureaucratic obstacles to achieve this. From dealing with month long visa processes to working two jobs to pay for dream travel to building a bed in the back of my car and driving Australia's interior. I use this self drive not only to pursue my personal but my work objectives as well.
 
-#### Leadership
+### Leadership
 
 At Makers we used an AGILE work process, using XP values, Trello and Github to improved our workflow. Within this I regularly lead stand-ups and retros in our small teams. As well as creating and running a retro for my entire cohort based around our [acebook projects](https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos). I also lead the presentations of the demonstration day for my cohort and was chosen as the first speaker for my knowledge of our final projects. 
 
 All of this was built upon my pre-gained leadership skills teaching and working as a bar supervisor around the world. In my hospitality career I was promoted to a supervisory position, in charge of staff scheduling, menu creation and social media influence. While as a teacher I was the leader for regularly scheduled tours of the Great Barrier Reef for Japanese high school students. All of this background means that not only do I know how to lead but also that a strong leader is only as good as the team around them.
 
 
-#### Languages
+### Languages
 
 - Ruby
 - JavaScript
