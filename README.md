@@ -68,14 +68,13 @@ Overall my experience tecahing and in hospitality has made me a strong communica
 
 My first line of code was written in Python on a Thursday and by that Monday I had over 2000 lines of code in my starting directory (none of it was that great). Yet I was hooked, and after contacting various people in the industry the best way to break in, I chose Makers Academy because it is a self lead curriculum. There I ran retro's for my entire cohort, planned group Meet-ups and based on my own interest in Spotify data sketched out [my final project](https://github.com/Walker-TW/Front-End-Vishual), set group goals and drove my team to project completion.
 
-Additionally, I have a continous track record of completing self made goals. The most demonstratable of these is my love of travel whihc often sees me setting a place to live or visit and then overcoming finical, personal and bureaucratic obsticals to achieve this. From dealing with month long visa processes to working two jobs to pay for dream travel to building a bed in the back of my car and driving Australia's interior. I use this self drive not only to pursue my personal but my work objectives as well.
+Additionally, I have a continuous track record of completing self made goals. The most demonstrable of these is my love of travel which often sees me setting a place to live or visit and then overcoming finical, personal and bureaucratic obstacles to achieve this. From dealing with month long visa processes to working two jobs to pay for dream travel to building a bed in the back of my car and driving Australia's interior. I use this self drive not only to pursue my personal but my work objectives as well.
 
 #### Leadership
 
-- Working at bars
-- Standups in final project 
-- Teaching
-
+- Makers (Retros, stand-ups, point man, meetings)
+- Working at bars (supervisor promotion, menu creation)
+- Teaching (give speeches)
 
 #### Languages
 
