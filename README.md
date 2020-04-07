@@ -120,4 +120,4 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 
 - Fitness - I have been lifting weights for the last 10 years and hope one day to get "in shape".
 - Travel - I have visted over 30 nations.
-- Modding Hardware - I have created a mini arcade console using a Rasberry Pi 3B.
+- Modding Hardware - I have created a mini arcade console using a Rasberry Pi 3.
