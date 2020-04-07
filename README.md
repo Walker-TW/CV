@@ -49,17 +49,20 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 
 #### Research/Learning
 
-- Teacher
-- Drinks? (new drinks)
-- Being Competitive
-- Fast Learning
-- Build a bed back of car
+As a History & Philosophy graduate I had a heavy research based course-load, focused on not just when things happened but the driving ideals behind them. The dual nature of my course required extensive knowledge of multiple fields which could then be combined into a new idea.
+
+Since leaving university I have taught myself a number of different skills in a wide variety of roles.
+These skills include teaching myself Python before joining Makers Academy a highly selective bootcamp focusing on Ruby, SQL, JavaScript and TDD. A maxim at Makers is to "Never Stop Learning" and so there I also created a project in React (not taught on the course) and Node.JS.
+
+As a native English speaker teaching adults ESL I had to learn the ins and outs of different esoteric grammar points to a standard that I could then teach them in an interesting and easily digestible way. This shows that I can take complex concepts and illustrate them to professionals outside the area of expertise.
 
 #### Communication
 
-- ESL teacher
-- Small teams at bartending
-- KOREA
+Makers curriculum is pair based programming. Therefore, I am well versed in working in small teams with people of varying outlooks and technical knowledge to create software. This experience solidified my knowledge that communication is key in the all aspects of tech.
+
+I also had the unique experience of living and working in a small town (Gyeongju) in South Korea where daily communication was made more difficult by a severe language barrier. So I began to develop my communication skills learning Korean, taking extra care to ensure clarity with my co-workers and integrating myself in the community. I take pride in having developed my communication skills so that I can be understood by anyone. This all came in my hospitality career, both as a supervisor in charge of multiple individuals as well as a bartender with patrons.
+
+Overall my experience tecahing and in hospitality has made me a strong communicator and much more sensitive to how important it is in all aspects of work. 
 
 #### Self-Driven
 
@@ -67,6 +70,8 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 - Learnt coding on my own while working full time job
 - Korean knocking on doors?
 - Dual degree time managment
+- Build a bed back of car
+
 
 #### Leadership
 
@@ -78,7 +83,7 @@ To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 
 - Different enviroments
 - MANY different jobs 
-- KOREA
+- KOREA X
 
 #### Languages
 
