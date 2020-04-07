@@ -31,14 +31,14 @@ There is a lot to love about development but I have learnt that the ease of crea
 Current Projects In Production
 
 - Personal Website
-- Algorythm Visualiser
+- Algorithm Visualiser
 - Discord Bot
 
 ## Projects
 
 |__Links__|__Description__|__Stack Used__|
 |:-:|:-:|:-:|
-|<p align="center"><a href="https://github.com/Walker-TW/Front-End-Vishual"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'The Vishual Project'__, - A 2 week 'final project' from my time at Makers Academy. A visualiser web app that displays a randomised animated canvas image that uses the information brought in via Spotify's API's. Users can sign in using OAuth and link their Spotofy account as well as gain access to hidden Spotify data such as 'danceability' of a track. Created using a front end built in ReactJS and a back-end in Node.JS |ReactJS, Node.JS, HTML, CSS, Express, Bootstrap|
+|<p align="center"><a href="https://github.com/Walker-TW/Front-End-Vishual"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'The Vishual Project'__, - A 2 week 'final project' from my time at Makers Academy. A visualiser web app that displays a randomised animated canvas image that uses the information brought in via Spotify's API's. Users can sign in using OAuth and link their Spotify account as well as gain access to hidden Spotify data such as 'danceability' of a track. Created using a front end built in ReactJS and a back-end in Node.JS |ReactJS, Node.JS, HTML, CSS, Express, Bootstrap|
 |<p align="center"><a href="https://dosdosdesperadosdynamicos.herokuapp.com/"><img src="./images/heroku-image.png"  height="32" width="32"></a><br><a href="https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'Wookiebook'__, - A 2 week project created to "mirror" facebook, but for wookies. Allows users to login, logout, create messages and choose a home planet. I also blogged the creation of the app [here](https://medium.com/@TWWalker/dosdosdesperadosdynamicos-acebook-not-a-copy-of-facebook-honest-f9e53b543aee). | Javascript, JQuery, HTML, CSS, Bootstrap, Ruby, Ruby on Rails, Travis, RSpec, Capybara|
 |<p align="center"><a href="https://github.com/Walker-TW/Chitter-Challenge"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'Chitter!'__ - A project from halfway through the Makers course in which I have created a twitter clone built around Capybara's. It will take created users and their tweets and add to a local database as well as upcase them on the front-end (because the birds are the loudest things known to man).|Ruby, HTML, CSS, Rspec, PSQL|
 
@@ -62,7 +62,7 @@ Makers curriculum is pair based programming. Therefore, I am well versed in work
 
 I also had the unique experience of living and working in a small town (Gyeongju) in South Korea where daily communication was made more difficult by a severe language barrier. So I began to develop my communication skills learning Korean, taking extra care to ensure clarity with my co-workers and integrating myself in the community. I take pride in having developed my communication skills so that I can be understood by anyone. This all came in my hospitality career, both as a supervisor in charge of multiple individuals as well as a bartender with patrons.
 
-Overall my experience tecahing and in hospitality has made me a strong communicator and much more sensitive to how important it is in all aspects of work. 
+Overall my experience teaching and in hospitality has made me a strong communicator and much more sensitive to how important it is in all aspects of work. 
 
 #### Self-Driven
 
@@ -99,21 +99,33 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 - History & Philosophy
 - 2:1
 - Fencing Teacher 
-- Russian Award 
 
 ## Experience
 
 **Arts Theatre Club** (June 2017 - Oct 2019)    
 *Bar Supervisor*  
 
+- Continuously surpassed monthly sales goals, repeatedly named the highest seller on the premises.
+- In charge of open and close shifts, tasked with keys to safe and doors.
+- Set weekly rota's for staff whose availability was constantly changing.
+
 **Cairns College of English** (April 2016 - Dec 2016)   
 *English Teacher*  
+
+- Ran and planned educationally based study tours for Japanese High School seniors.
+- Crafted personal curriculum for individual students of varying levels.
+- Balanced highly diverse class sizes of varying nationalities.
 
 **Ebo Young Talking Club Gyeongju SK** (Jan 2014 - Mar 2015)   
 *English Teacher*  
 
+- Created highly reviewed conversation lessons based around TEDtalks, which greatly increased student numbers. 
+- Sole fluent English language teacher in charge of English communication for the language school.
+- Established a 'Business" class in which high level concepts were distilled down to easy to communicate ideas for non-native speakers.
+
 ## Interests
 
 - Fitness - I have been lifting weights for the last 10 years and hope one day to get "in shape".
-- Travel - I have visted over 30 nations.
-- Modding Hardware - I have created a mini arcade console using a Rasberry Pi 3.
+- Travel - I have visted and lived in over 30 nations.
+- Reading - My Kindle now has over 400 books on it and the list continues to grow.
+- Modding Hardware - I have created a mini arcade console using a Raspberry Pi 3.
