@@ -83,7 +83,6 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 - JavaScript
 - React
 - Node.Js
-- Python
 
 ## Education
 
