@@ -89,9 +89,12 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 
 #### Makers Academy (Dec 2019 - Mar 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, Python, Node.Js, React
+- Full-Stack Web Development
+- OOP, TDD, MVC
+- Agile/XP, Pair-led Development,
+- Ruby, Rails, JavaScript, Python, Node.Js, React, 
+- HTML, CSS, jQuery, Bootstrap
+- Postgres, Sinatra
 - RSpec, Jasmine
 
 #### University of Essex (Oct 2010 - June 2013)
