@@ -93,7 +93,7 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 - Agile/XP, Pair-led Development,
 - Ruby, Rails, JavaScript, Python, Node.Js, React, 
 - HTML, CSS, jQuery, Bootstrap
-- Postgres, Sinatra
+- PostgreSQL, Sinatra
 - RSpec, Jasmine
 
 #### University of Essex (Oct 2010 - June 2013)
