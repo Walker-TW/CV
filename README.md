@@ -40,7 +40,7 @@ Current Projects In Production
 |:-:|:-:|:-:|
 |<p align="center"><a href="https://github.com/Walker-TW/Front-End-Vishual"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'The Vishual Project'__, - A 2 week 'final project' from my time at Makers Academy. A visualiser web app that displays a randomised animated canvas image that uses the information brought in via Spotify's API's. Users can sign in using OAuth and link their Spotify account as well as gain access to hidden Spotify data such as 'danceability' of a track. Created using a front end built in ReactJS and a back-end in Node.JS |ReactJS, Node.JS, HTML, CSS, Express, Bootstrap|
 |<p align="center"><a href="https://dosdosdesperadosdynamicos.herokuapp.com/"><img src="./images/heroku-image.png"  height="32" width="32"></a><br><a href="https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'Wookiebook'__, - A 2 week project created to "mirror" facebook, but for wookies. Allows users to login, logout, create messages and choose a home planet. I also blogged the creation of the app [here](https://medium.com/@TWWalker/dosdosdesperadosdynamicos-acebook-not-a-copy-of-facebook-honest-f9e53b543aee). | Javascript, JQuery, HTML, CSS, Bootstrap, Ruby, Ruby on Rails, Travis, RSpec, Capybara|
-|<p align="center"><a href="https://github.com/Walker-TW/Chitter-Challenge"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'Chitter!'__ - A project from halfway through the Makers course in which I have created a twitter clone built around Capybara's. It will take created users and their tweets and add to a local database as well as upcase them on the front-end (because the birds are the loudest things known to man).|Ruby, HTML, CSS, Rspec, PSQL|
+|<p align="center"><a href="https://github.com/Walker-TW/Chitter-Challenge"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'Chitter!'__ - A project from halfway through the Makers course in which I have created a twitter clone built around Cockatoos. It will take created users and their tweets and add to a local database as well as upcase them on the front-end (because the birds are the loudest things known to man).|Ruby, HTML, CSS, Rspec, PSQL|
 
 
 To see all of my projects please visit my [Github](https://github.com/Walker-TW)
@@ -83,7 +83,6 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 - JavaScript
 - React
 - Node.Js
-- Python
 
 ## Education
 
