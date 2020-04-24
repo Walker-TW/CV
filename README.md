@@ -7,7 +7,6 @@
 [![HTML commits][htmlCommits]](https://sourcerer.io/walker-tw)
 [![SQL commits][sqlCommits]](https://sourcerer.io/walker-tw)
 
-
 [rubyCommits]: https://img.shields.io/badge/Ruby-red.svg
 [jsCommits]: https://img.shields.io/badge/JavaScript-yellow.svg
 [cssCommits]: https://img.shields.io/badge/CSS-blue.svg
