@@ -75,7 +75,7 @@ At Makers we used an AGILE work process, using XP values, Trello and Github to i
 
 All of this was built upon my pre-gained leadership skills teaching and working as a bar supervisor around the world. In my hospitality career I was promoted to a supervisory position, in charge of staff scheduling, menu creation and social media influence. While as a teacher I was the leader for regularly scheduled tours of the Great Barrier Reef for Japanese high school students. All of this background means that not only do I know how to lead but also that a strong leader is only as good as the team around them.
 
-### Languages
+### Languages 
 
 - Ruby
 - JavaScript
