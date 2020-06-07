@@ -30,7 +30,6 @@ There is a lot to love about development but I have learnt that the ease of crea
 Current Projects In Production
 
 - Personal Website
-- Algorithm Visualiser
 - Discord Bot
 
 ## Projects
