@@ -1,20 +1,19 @@
 <div align= "center" >
-<h1>Tom Walker</h1> 
+<h1>Tom Walker</h1>
 
-[![Ruby commits][rubyCommits]](https://sourcerer.io/walker-tw) 
-[![JavaScript commits][jsCommits]](https://sourcerer.io/walker-tw) 
-[![CSS commits][cssCommits]](https://sourcerer.io/walker-tw)
-[![HTML commits][htmlCommits]](https://sourcerer.io/walker-tw)
-[![SQL commits][sqlCommits]](https://sourcerer.io/walker-tw)
+[![Ruby commits][rubycommits]](https://sourcerer.io/walker-tw)
+[![JavaScript commits][jscommits]](https://sourcerer.io/walker-tw)
+[![CSS commits][csscommits]](https://sourcerer.io/walker-tw)
+[![HTML commits][htmlcommits]](https://sourcerer.io/walker-tw)
+[![SQL commits][sqlcommits]](https://sourcerer.io/walker-tw)
 
-[rubyCommits]: https://img.shields.io/badge/Ruby-red.svg
-[jsCommits]: https://img.shields.io/badge/JavaScript-yellow.svg
-[cssCommits]: https://img.shields.io/badge/CSS-blue.svg
-[htmlCommits]: https://img.shields.io/badge/HTML-orange.svg
-[sqlCommits]: https://img.shields.io/badge/SQL-brightgreen.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-red.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-yellow.svg
+[csscommits]: https://img.shields.io/badge/CSS-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-orange.svg
+[sqlcommits]: https://img.shields.io/badge/SQL-brightgreen.svg
 
-
-[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
+[_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Experience_](#experience) | [_Interests_](#interests)
 
 </div>
 
@@ -34,13 +33,13 @@ Current Projects In Production
 
 ## Projects
 
-|__Links__|__Description__|__Stack Used__|
-|:-:|:-:|:-:|
-|<p align="center"><a href="https://algo-visualiser.herokuapp.com/"><img src="./images/heroku-image.png"  height="32" width="32"></a><br><p align="center"><a href="https://github.com/Walker-TW/Algorithm-Visualizer"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'The Algo Visualizer'__, - Built in quarantine with another using zoom and VSCode Live Share. It's a project made outside of Makers to visually demonstrate the pro’s and con’s of various graph traversal algorithms. Users are able to draw walls, set start points/end points and view statistics of runtimes/shortest paths.  Built in ReactJS and tested using Enzyme/Jest. |ReactJS, HTML, CSS, Express, Jest, Bootstrap|
-|<p align="center"><a href="https://github.com/Walker-TW/Front-End-Vishual"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'The Vishual Project'__, - A 2 week 'final project' from my time at Makers Academy. A visualiser web app that displays a randomised animated canvas image that uses the information brought in via Spotify's API's. Users can sign in using OAuth and link their Spotify account as well as gain access to hidden Spotify data such as 'danceability' of a track. Created using a front end built in ReactJS and a back-end in Node.JS |ReactJS, Node.JS, HTML, CSS, Express, Bootstrap|
-|<p align="center"><a href="https://dosdosdesperadosdynamicos.herokuapp.com/"><img src="./images/heroku-image.png"  height="32" width="32"></a><br><a href="https://github.com/Walker-TW/wookiebook"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'Wookiebook'__, - A 2 week project created to "mirror" facebook, but for wookies. Allows users to login, logout, create messages and choose a home planet. I also blogged the creation of the app [here](https://medium.com/@TWWalker/dosdosdesperadosdynamicos-acebook-not-a-copy-of-facebook-honest-f9e53b543aee). | Javascript, JQuery, HTML, CSS, Bootstrap, Ruby, Ruby on Rails, Travis, RSpec, Capybara|
-|<p align="center"><a href="https://github.com/Walker-TW/Chitter-Challenge"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>| __'Chitter!'__ - A project from halfway through the Makers course in which I have created a twitter clone built around Cockatoos. It will take created users and their tweets and add to a local database as well as upcase them on the front-end (because the birds are the loudest things known to man).|Ruby, HTML, CSS, Rspec, PSQL|
-
+|                                                                                                                                          **Links**                                                                                                                                          |                                                                                                                                                                                                             **Description**                                                                                                                                                                                                              |                                     **Stack Used**                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| <p align="center"><a href="https://algo-visualiser.herokuapp.com/"><img src="./images/heroku-image.png"  height="32" width="32"></a><br><p align="center"><a href="https://github.com/Walker-TW/Algorithm-Visualizer"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p> |                            **'The Algo Visualizer'**, - Built in quarantine with another using zoom and VSCode Live Share. It's a project made outside of Makers to visually demonstrate the pro’s and con’s of various graph traversal algorithms. Users are able to draw walls, set start points/end points and view statistics of runtimes/shortest paths. Built in ReactJS and tested using Enzyme/Jest.                             |                      ReactJS, HTML, CSS, Express, Jest, Bootstrap                      |
+|                                                                      <p align="center"><a href="https://github.com/Walker-TW/Front-End-Vishual"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>                                                                       | **'The Vishual Project'**, - A 2 week 'final project' from my time at Makers Academy. A visualiser web app that displays a randomised animated canvas image that uses the information brought in via Spotify's API's. Users can sign in using OAuth and link their Spotify account as well as gain access to hidden Spotify data such as 'danceability' of a track. Created using a front end built in ReactJS and a back-end in Node.JS |                    ReactJS, Node.JS, HTML, CSS, Express, Bootstrap                     |
+|                                                                      <p align="center"><a href="https://github.com/Walker-TW/Pocket-Positivity"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>                                                                       |                               **'Pocket Positivity!'** - Created in a three day hackAthon based around helping frontline workers in the COVID-19 pandemic. Using Neuro-Linguistic Programming and built in React Native the multi-platform app leverages Expo to take inputted mantras from users and send them notifications on their device at a time of their choosing to re-enforce positive thoughts.                               |                      Javascript, React Native, Jest, Heroku, Expo                      |
+|          <p align="center"><a href="https://dosdosdesperadosdynamicos.herokuapp.com/"><img src="./images/heroku-image.png"  height="32" width="32"></a><br><a href="https://github.com/Walker-TW/wookiebook"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>          |                                                          **'Wookiebook'**, - A 2 week project created to "mirror" facebook, but for wookies. Allows users to login, logout, create messages and choose a home planet. I also blogged the creation of the app [here](https://medium.com/@TWWalker/dosdosdesperadosdynamicos-acebook-not-a-copy-of-facebook-honest-f9e53b543aee).                                                          | Javascript, JQuery, HTML, CSS, Bootstrap, Ruby, Ruby on Rails, Travis, RSpec, Capybara |
+|                                                                      <p align="center"><a href="https://github.com/Walker-TW/Chitter-Challenge"><img src="./images/GitHub-120px.png"  height="32" width="32"></a></p>                                                                       |                                                                **'Chitter!'** - A project from halfway through the Makers course in which I have created a twitter clone built around Cockatoos. It will take created users and their tweets and add to a local database as well as upcase them on the front-end (because the birds are the loudest things known to man).                                                                |                              Ruby, HTML, CSS, Rspec, PSQL                              |
 
 To see all of my projects please visit my [Github](https://github.com/Walker-TW)
 
@@ -61,7 +60,7 @@ Makers curriculum is pair based programming. Therefore, I am well versed in work
 
 I also had the unique experience of living and working in a small town (Gyeongju) in South Korea where daily communication was made more difficult by a severe language barrier. So I began to develop my communication skills learning Korean, taking extra care to ensure clarity with my co-workers and integrating myself in the community. I take pride in having developed my communication skills so that I can be understood by anyone. This all came in my hospitality career, both as a supervisor in charge of multiple individuals as well as a bartender with patrons.
 
-Overall my experience teaching and in hospitality has made me a strong communicator and much more sensitive to how important it is in all aspects of work. 
+Overall my experience teaching and in hospitality has made me a strong communicator and much more sensitive to how important it is in all aspects of work.
 
 ### Self-Driven
 
@@ -71,11 +70,11 @@ Additionally, I have a continuous track record of completing self made goals. Th
 
 ### Leadership
 
-At Makers we used an AGILE work process, using XP values, Trello and Github to improved our workflow. Within this I regularly lead stand-ups and retros in our small teams. As well as creating and running a retro for my entire cohort based around our [acebook projects](https://github.com/Walker-TW/wookiebook). I also lead the presentations of the demonstration day for my cohort and was chosen as the first speaker for my knowledge of our final projects. 
+At Makers we used an AGILE work process, using XP values, Trello and Github to improved our workflow. Within this I regularly lead stand-ups and retros in our small teams. As well as creating and running a retro for my entire cohort based around our [acebook projects](https://github.com/Walker-TW/wookiebook). I also lead the presentations of the demonstration day for my cohort and was chosen as the first speaker for my knowledge of our final projects.
 
 All of this was built upon my pre-gained leadership skills teaching and working as a bar supervisor around the world. In my hospitality career I was promoted to a supervisory position, in charge of staff scheduling, menu creation and social media influence. While as a teacher I was the leader for regularly scheduled tours of the Great Barrier Reef for Japanese high school students. All of this background means that not only do I know how to lead but also that a strong leader is only as good as the team around them.
 
-### Languages 
+### Languages
 
 - Ruby
 - JavaScript
@@ -89,7 +88,7 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 - Full-Stack Web Development
 - OOP, TDD, MVC
 - Agile/XP, Pair-led Development,
-- Ruby, Rails, JavaScript, Python, Node.Js, React, 
+- Ruby, Rails, JavaScript, Python, Node.Js, React,
 - HTML, CSS, jQuery, Bootstrap
 - PostgreSQL, Sinatra
 - RSpec, Jasmine, Travis CI
@@ -98,28 +97,28 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 
 - History & Philosophy
 - 2:1
-- Fencing Teacher 
+- Fencing Teacher
 
 ## Experience
 
-**Arts Theatre Club** (June 2017 - Oct 2019)    
-*Bar Supervisor*  
+**Arts Theatre Club** (June 2017 - Oct 2019)  
+_Bar Supervisor_
 
 - Continuously surpassed monthly sales goals, repeatedly named the highest seller on the premises.
 - In charge of open and close shifts, tasked with keys to safe and doors.
 - Set weekly rota's for staff whose availability was constantly changing.
 
-**Cairns College of English** (April 2016 - Dec 2016)   
-*English Teacher*  
+**Cairns College of English** (April 2016 - Dec 2016)  
+_English Teacher_
 
 - Ran and planned educationally based study tours for Japanese High School seniors.
 - Crafted personal curriculum for individual students of varying levels.
 - Balanced highly diverse class sizes of varying nationalities.
 
-**Ebo Young Talking Club Gyeongju SK** (Jan 2014 - Mar 2015)   
-*English Teacher*  
+**Ebo Young Talking Club Gyeongju SK** (Jan 2014 - Mar 2015)  
+_English Teacher_
 
-- Created highly reviewed conversation lessons based around TEDtalks, which greatly increased student numbers. 
+- Created highly reviewed conversation lessons based around TEDtalks, which greatly increased student numbers.
 - Sole fluent English language teacher in charge of English communication for the language school.
 - Established a 'Business" class in which high level concepts were distilled down to easy to communicate ideas for non-native speakers.
 
