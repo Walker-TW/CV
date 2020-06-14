@@ -9,7 +9,7 @@
 
 [rubycommits]: https://img.shields.io/badge/Ruby-red.svg
 [jscommits]: https://img.shields.io/badge/JavaScript-yellow.svg
-[csscommits]: https://img.shields.io/badge/CSS-blue.svg
+[csscommits]: https://img.shields.io/badge/CSS-blue.svg 
 [htmlcommits]: https://img.shields.io/badge/HTML-orange.svg
 [sqlcommits]: https://img.shields.io/badge/SQL-brightgreen.svg 
 
