@@ -1,7 +1,7 @@
 <div align= "center" > 
 <h1>Tom Walker</h1>
 
-[![Ruby commits][rubycommits]](https://sourcerer.io/walker-tw)
+[![Ruby commits][rubycommits]](https://sourcerer.io/walker-tw) 
 [![JavaScript commits][jscommits]](https://sourcerer.io/walker-tw)
 [![CSS commits][csscommits]](https://sourcerer.io/walker-tw)
 [![HTML commits][htmlcommits]](https://sourcerer.io/walker-tw)
