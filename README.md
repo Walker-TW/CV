@@ -78,8 +78,9 @@ All of this was built upon my pre-gained leadership skills teaching and working 
 
 - Ruby
 - JavaScript
-- React
+- ReactJS
 - Node.Js
+- React Native
 
 ## Education
 
