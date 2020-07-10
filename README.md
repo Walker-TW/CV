@@ -4,7 +4,7 @@
 [![Ruby commits][rubycommits]](https://sourcerer.io/walker-tw) 
 [![JavaScript commits][jscommits]](https://sourcerer.io/walker-tw)
 [![CSS commits][csscommits]](https://sourcerer.io/walker-tw)
-[![HTML commits][htmlcommits]](https://sourcerer.io/walker-tw)
+[![HTML commits][htmlcommits]](https://sourcerer.io/walker-tw) 
 [![SQL commits][sqlcommits]](https://sourcerer.io/walker-tw)  
 
 [rubycommits]: https://img.shields.io/badge/Ruby-red.svg
