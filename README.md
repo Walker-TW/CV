@@ -125,6 +125,7 @@ _English Teacher_
 
 ## Interests
 
+- Computer Science - To build upon my experience with code I like to study CS concepts in my sparetime these sometimes turn into projects such as the algo-visualiser above.
 - Fitness - I have been lifting weights for the last 10 years and hope one day to get "in shape".
 - Travel - I have visted and lived in over 30 nations.
 - Reading - My Kindle now has over 400 books on it and the list continues to grow.
