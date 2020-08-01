@@ -15,7 +15,7 @@
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Experience_](#experience) | [_Interests_](#interests)
 
-</div>
+</div> 
 
 ---
 
