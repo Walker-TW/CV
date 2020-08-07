@@ -1,7 +1,7 @@
-<div align= "center" > 
-<h1>Tom Walker</h1> 
+<div align= "center" >
+<h1>Tom Walker</h1>
   
-[![Ruby commits][rubycommits]](https://sourcerer.io/walker-tw) 
+[![Ruby commits][rubycommits]](https://sourcerer.io/walker-tw)
 [![JavaScript commits][jscommits]](https://sourcerer.io/walker-tw)
 [![CSS commits][csscommits]](https://sourcerer.io/walker-tw) 
 [![HTML commits][htmlcommits]](https://sourcerer.io/walker-tw) 
@@ -9,7 +9,7 @@
 
 [rubycommits]: https://img.shields.io/badge/Ruby-red.svg 
 [jscommits]: https://img.shields.io/badge/JavaScript-yellow.svg   
-[csscommits]: https://img.shields.io/badge/CSS-blue.svg 
+[csscommits]: https://img.shields.io/badge/CSS-blue.svg
 [htmlcommits]: https://img.shields.io/badge/HTML-orange.svg 
 [sqlcommits]: https://img.shields.io/badge/SQL-brightgreen.svg 
 
