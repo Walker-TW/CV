@@ -7,10 +7,10 @@
 [![HTML commits][htmlcommits]](https://sourcerer.io/walker-tw) 
 [![SQL commits][sqlcommits]](https://sourcerer.io/walker-tw)  
 
-[rubycommits]: https://img.shields.io/badge/Ruby-red.svg 
-[jscommits]: https://img.shields.io/badge/JavaScript-yellow.svg   
+[rubycommits]: https://img.shields.io/badge/Ruby-red.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-yellow.svg
 [csscommits]: https://img.shields.io/badge/CSS-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-orange.svg 
+[htmlcommits]: https://img.shields.io/badge/HTML-orange.svg
 [sqlcommits]: https://img.shields.io/badge/SQL-brightgreen.svg 
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Experience_](#experience) | [_Interests_](#interests)
